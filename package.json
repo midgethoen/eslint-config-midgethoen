@@ -1,0 +1,17 @@
+{
+  "name": "eslint-config-midgethoen",
+  "version": "0.0.0",
+  "description": "My personal eslint preferences",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint config"
+  ],
+  "author": "Midge 't Hoen",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-config-airbnb": "^10.0.1"
+  }
+}
